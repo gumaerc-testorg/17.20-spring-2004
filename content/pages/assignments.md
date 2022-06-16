@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,9 +11,9 @@ uid: c43cc95a-0c5e-4944-7045-7eb76b4ee3de
 Paper Assignments
 -----------------
 
-Assignment 1 ([PDF]({{< baseurl >}}/resources/paper1))  
-Assignment 2 ([PDF]({{< baseurl >}}/resources/paper2))  
-Assignment 3 ([PDF]({{< baseurl >}}/resources/paper3))
+Assignment 1 ({{% resource_link 839f5f14-6b76-abd9-beba-2c857f8a3088 "PDF" %}})  
+Assignment 2 ({{% resource_link 6b5f038c-04c1-31f9-3045-9949651a128f "PDF" %}})  
+Assignment 3 ({{% resource_link 622bd224-4f40-43c8-647b-963b30726c8d "PDF" %}})
 
 Class Assignment Questions
 --------------------------
