@@ -5,6 +5,7 @@ file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lectures22_23.pdf
 uid: 39dcaa3f-39b5-9fc1-de78-54413b09c3ef
 ---
 Participation and the Political System
-
