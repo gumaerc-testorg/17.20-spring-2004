@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Understanding Institutions: The Median Voter Theorem'
 file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/25d0e9a76288bd123db0bc3dd9878266_lecture3.pdf
+file_size: 32996
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
