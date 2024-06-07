@@ -2,6 +2,7 @@
 content_type: resource
 description: Participation and the Political System
 file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/39dcaa3f39b59fc1de7854413b09c3ef_lectures22_23.pdf
+file_size: 86246
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

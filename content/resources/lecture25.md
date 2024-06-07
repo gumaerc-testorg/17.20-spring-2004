@@ -2,6 +2,7 @@
 content_type: resource
 description: Conclusions
 file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/d818b70833d264f9480034eeb9dc1df9_lecture25.pdf
+file_size: 29345
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
