@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Agenda Setting: The Committee Model'
-file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/24fd22da24fae230d74192b650d88965_lecture4.pdf
+file: /ol-ocw-studio-app/courses/17-20-introduction-to-the-american-political-process-spring-2004/24fd22da24fae230d74192b650d88965_lecture4.pdf
 file_size: 27447
 file_type: application/pdf
 learning_resource_types:
