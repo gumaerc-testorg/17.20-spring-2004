@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Structure of Public Opinion
-file: /ol-ocw-studio-app/courses/17-20-introduction-to-the-american-political-process-spring-2004/6eb78701735446a038220083de6f0d80_lectures16_17.pdf
+file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/6eb78701735446a038220083de6f0d80_lectures16_17.pdf
 file_size: 110346
 file_type: application/pdf
 learning_resource_types:

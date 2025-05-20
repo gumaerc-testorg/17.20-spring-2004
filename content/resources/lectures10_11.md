@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Campaigns and Elections
-file: /ol-ocw-studio-app/courses/17-20-introduction-to-the-american-political-process-spring-2004/c764b925219d21540b0b173bbf39c64e_lectures10_11.pdf
+file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/c764b925219d21540b0b173bbf39c64e_lectures10_11.pdf
 file_size: 184878
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-20-introduction-to-the-american-political-process-spring-2004/839f5f146b76abd9beba2c857f8a3088_paper1.pdf
+file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/839f5f146b76abd9beba2c857f8a3088_paper1.pdf
 file_size: 78984
 file_type: application/pdf
 learning_resource_types:
