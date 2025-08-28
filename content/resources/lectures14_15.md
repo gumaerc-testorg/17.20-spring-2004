@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Measure and Meaning of Public Opinion
-file: /courses/17-20-introduction-to-the-american-political-process-spring-2004/5ecad3826d6763d32789d3f8a18f4114_lectures14_15.pdf
+file: /ol-ocw-studio-app/courses/17-20-introduction-to-the-american-political-process-spring-2004/5ecad3826d6763d32789d3f8a18f4114_lectures14_15.pdf
 file_size: 71209
 file_type: application/pdf
 learning_resource_types:
